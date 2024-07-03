@@ -1,4 +1,6 @@
 # PRODIGY_ML_Tasks
+<!-- README.md -->
+
 <div style="font-family: 'Arial', sans-serif; max-width: 90%; margin: 0 auto; text-align: justify; line-height: 1.6; background: linear-gradient(to bottom, #62b6cb, #778da9); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); color: #D2C9B8;">
 
   <!-- Task 1: Linear Regression Model for House Price Prediction -->
@@ -14,7 +16,7 @@
     <h2 style="color: #fff; font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Dataset</h2>
   </div>
 
-  <p style="color: #fff; margin-bottom: 20px;">The dataset contains 5000 rows and 7 columns in CSV format. Each row represents a house with features such as average income, house age, and more. The target variable is the house price.</p>
+  <p style="color: #fff; margin-bottom: 20px;">The dataset used for this task is from Kaggle: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data" target="_blank" style="text-decoration: none; color: #007BFF;">House Prices: Advanced Regression Techniques</a>. It contains detailed information about house features and prices.</p>
 
   <!-- Task 2: K-means Clustering for Customer Segmentation -->
   <div style="text-align: center; margin-bottom: 20px;">
@@ -29,7 +31,7 @@
     <h2 style="color: #fff; font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Dataset</h2>
   </div>
 
-  <p style="color: #fff; margin-bottom: 20px;">The dataset includes customer purchase history with features related to spending behavior. Clustering will help identify distinct customer segments.</p>
+  <p style="color: #fff; margin-bottom: 20px;">The dataset used for this task is from Kaggle: <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python" target="_blank" style="text-decoration: none; color: #007BFF;">Customer Segmentation Tutorial in Python</a>. It includes customer purchase history and features related to spending behavior.</p>
 
   <!-- Task 3: Image Classification -->
   <div style="text-align: center; margin-bottom: 20px;">
@@ -44,7 +46,7 @@
     <h2 style="color: #fff; font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Dataset</h2>
   </div>
 
-  <p style="color: #fff; margin-bottom: 20px;">To illustrate image classification, a common dataset from Kaggle consisting of hand signs is used. Each image is labeled with the type of hand sign it represents.</p>
+  <p style="color: #fff; margin-bottom: 20px;">The dataset used for this task is from Kaggle: <a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blank" style="text-decoration: none; color: #007BFF;">Dogs vs. Cats</a>. It consists of images of dogs and cats labeled with their respective classes.</p>
 
   <!-- Task 4: Hand Gesture Recognition Model Building -->
   <div style="text-align: center; margin-bottom: 20px;">
@@ -56,10 +58,10 @@
   </div>
 
   <div style="text-align: center; margin-bottom: 20px;">
-    <h2 style="color: #fff; font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Techniques for Hand Gesture Recognition</h2>
+    <h2 style="color: #fff; font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Dataset</h2>
   </div>
 
-  <p style="color: #fff; margin-bottom: 20px;">Various techniques are explored for hand gesture recognition, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transfer Learning. The focus is on implementing CNNs using Keras for its effectiveness in capturing spatial patterns in gestures.</p>
+  <p style="color: #fff; margin-bottom: 20px;">The dataset used for this task is from Kaggle: <a href="https://www.kaggle.com/datasets/gti-upm/leapgestrecog" target="_blank" style="text-decoration: none; color: #007BFF;">LeapGestRecog</a>. It includes hand gesture images captured using Leap Motion Controller, labeled with corresponding hand gestures.</p>
 
   <div style="text-align: center;">
     <p style="color: #fff; margin-bottom: 10px;">
@@ -69,5 +71,7 @@
       </a>
     </p>
   </div>
+
+  <p style="color: #fff; margin-top: 20px; text-align: center;">This README was prepared by Jai Prakash R. (Email: jaiprakash292033@gmail.com)</p>
 
 </div>
